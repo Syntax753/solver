@@ -1,8 +1,11 @@
-package src.main.java;
+import java.util.Scanner;
 
 public class Solver {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        Scanner sc = new Scanner(System.in);
+
+        int T = sc.nextInt();
+
     }
 
 }
